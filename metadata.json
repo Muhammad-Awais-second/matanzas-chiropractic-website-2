@@ -1,0 +1,6 @@
+{
+  "name": "Matanzas Chiropractic and Spine Injury Center",
+  "description": "St. Augustine chiropractic care for back pain, auto injuries, and persistent tendon pain. Trauma-trained care, Shockwave Therapy (ESWT), cold laser therapy, massage, and VA Community Care support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
